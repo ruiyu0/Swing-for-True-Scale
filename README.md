@@ -13,7 +13,7 @@ pip install mediapipe
 ```
 
 ## Face scale estimation
-We provide sample data in the `data` folder collected by a calibrated Samsung Galaxy S22. Simply run:
+We provide sample data in the [data](https://github.com/ruiyu0/Swing-for-True-Scale/tree/main/data) folder collected by a calibrated Samsung Galaxy S22. To estimate the pupil distance (PD), simply run:
 
 ```
 python main_pupil_dist_estimate.py
