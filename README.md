@@ -1,6 +1,8 @@
 # Swing for True Scale in Dual Camera Mode
 The repository contains the code for "[Be Real in Scale: Swing for True Scale in Dual Camera Mode](https://jianwang-cmu.github.io/23realScale/Swing_for_True_Scale__ISMAR_2023_.pdf)" ISMAR 2023.
 
+![pipeline](figure/overview.png)
+
 ## Environment
 The scale estimation code was developed using Python. You can use the following commands to set up the environment in Anaconda or Miniconda:
 ```
